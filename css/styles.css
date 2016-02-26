@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+
+.red, #error {
+  color: red;
+}
+
+.overline {
+  text-decoration: overline;
+}
+
+.label {
+	color: black;
+}
